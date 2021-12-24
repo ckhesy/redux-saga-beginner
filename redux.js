@@ -1,0 +1,7 @@
+const createStore = () => {
+
+}
+
+const applyMiddleware = () => {
+  
+}
